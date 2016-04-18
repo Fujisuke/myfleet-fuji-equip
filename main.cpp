@@ -2,6 +2,15 @@
 #include <iostream>
 #include <stdio.h>
 
+//For Linux
+#define SIMPLE_UPGRADE_PATH "process/simple_upgrade.txt"
+#define SIMPLE_OUTPUT_PATH "process/simple_output.txt"
+#define EQUIP_DATA_PATH "input/equip_data.txt"
+#define TYPE_PATH "input/type.txt"
+#define TYPE_SEPARATOR_PATH "input/type_separator.txt"
+#define OUTPUT_PATH "output/output.txt"
+#define UPGRADE_PATH "input/upgrade.txt"
+
 #include "split.h";
 
 struct
@@ -16,7 +25,6 @@ struct
 void simplerUpgrade();
 void process_simple_output();
 void process_output();
-void set_upgrade();
 void view_output();
 
 int main()
@@ -30,10 +38,10 @@ int main()
 
 void simplerUpgrade()
 {
-    FILE *simple_upgrade = fopen("simple_upgrade.txt", "wt");
+    FILE *simple_upgrade = fopen(SIMPLE_UPGRADE_PATH, "wt");
     string str;
     string tempUpgrade = "";
-    ifstream file("upgrade.txt");
+    ifstream file(UPGRADE_PATH);
     int counter = 1;
     while (getline(file, str))
     {
@@ -58,8 +66,8 @@ void simplerUpgrade()
 }
 void process_simple_output()
 {
-    FILE *output = fopen("simple_output.txt", "wt");
-    ifstream file("equip_data.txt");
+    FILE *output = fopen(SIMPLE_OUTPUT_PATH, "wt");
+    ifstream file(EQUIP_DATA_PATH);
     string str, s_type;
     vector<string> x,y;
     while (getline(file, str))
@@ -83,7 +91,7 @@ void process_simple_output()
                 }
             }
         }
-        ifstream type("type.txt");
+        ifstream type(TYPE_PATH);
         int stats = 0; // 0=not found, 1=found
         while (getline(type, s_type))
         {
@@ -103,7 +111,7 @@ void process_simple_output()
             equip.amount = "";
         }
         type.close();
-        ifstream upgrade("simple_upgrade.txt");
+        ifstream upgrade(SIMPLE_UPGRADE_PATH);
         equip.upgrade = "";
         while (getline(upgrade, s_type))
         {//find
@@ -112,7 +120,7 @@ void process_simple_output()
             {
                 equip.upgrade.append("★+");
                 equip.upgrade.append(y[1]);
-                equip.upgrade.append(" x ");
+                equip.upgrade.append(" x");
                 equip.upgrade.append(y[2]);
                 equip.upgrade.append("<br />");
             }
@@ -127,8 +135,8 @@ void process_simple_output()
 
 void process_output()
 {
-    FILE *t_separator = fopen("type_separator.txt", "rt");
-    FILE *output = fopen("output.txt", "wt");
+    FILE *t_separator = fopen(TYPE_SEPARATOR_PATH, "rt");
+    FILE *output = fopen(OUTPUT_PATH, "wt");
     FILE *s_output;
 
     string name, type, current_name, s_type;
@@ -145,7 +153,7 @@ void process_output()
             fprintf(output, "{{FujiTitle | title= %s}}\n", name.c_str());
             current_name = name;
         }
-        ifstream s_output("simple_output.txt");
+        ifstream s_output(SIMPLE_OUTPUT_PATH);
         while (getline(s_output, s_type))
         {
             x = split(s_type, '|');
@@ -166,16 +174,11 @@ void process_output()
 
 void view_output()
 {
-    ifstream output("output.txt");
+    ifstream output(OUTPUT_PATH);
     string out;
     while (getline(output, out))
     {
         cout << out << "\n";
     }
-
-}
-
-void set_upgrade()
-{
 
 }

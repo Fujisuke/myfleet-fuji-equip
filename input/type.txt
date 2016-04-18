@@ -1,0 +1,81 @@
+smallgun|12.7cm Twin Gun Mount|12.7cm連装砲
+smallgun|12.7cm Twin Gun Mount Model B Kai 2|12.7cm連装砲B型改二
+smallgun|120mm Twin Gun Mount|120mm連装砲
+mediumgun|20.3cm (No.3) Twin Gun Mount|20.3cm(3号)連装砲
+mediumgun|20.3cm (No.2) Twin Gun Mount|20.3cm(2号)連装砲
+mediumgun|SKC34 20.3cm Twin Gun Mount|SKC34 20.3cm連装砲
+biggun|35.6cm Twin Gun Mount (Dazzle Camouflage)|35.6cm連装砲(ダズル迷彩)
+biggun|Prototype 35.6cm Triple Gun Mount|試製35.6cm三連装砲
+biggun|41cm Twin Gun Mount|41cm連装砲
+biggun|Prototype 41cm Triple Gun Mount|試製41cm三連装砲
+biggun|46cm Triple Gun Mount|46cm三連装砲
+biggun|Prototype 51cm Twin Gun Mount|試製51cm連装砲
+biggun|381mm/50 Triple Gun Mount|381mm/50 三連装砲
+biggun|381mm/50 Triple Gun Mount Kai|381mm/50 三連装砲改
+yellowgun|OTO 152mm Triple Rapid Fire Gun Mount|OTO 152mm三連装速射砲
+torpedo|61cm Quadruple (Oxygen) Torpedo Mount|61cm四連装(酸素)魚雷
+torpedo|61cm Quintuple (Oxygen) Torpedo Mount|61cm五連装(酸素)魚雷
+torpedo|Type A Ko-hyoteki|甲標的
+torpedo|Prototype FaT Type 95 Oxygen Torpedo Kai|試製FaT仕様九五式酸素魚雷改
+torpedo|Submarine 53cm Bow Torpedo Mount (8 tubes)|潜水艦53cm艦首魚雷(8門)
+greenplane|Reppuu|烈風
+greenplane|Shiden Kai 2|紫電改二
+greenplane|Type 0 Fighter Model 53 (Iwamoto Squadron)|零式艦戦53型(岩本隊)
+redplane|Suisei Model 12A|彗星一二型甲
+redplane|Type 99 Dive Bomber (Egusa Squadron)|九九式艦爆(江草隊)
+redplane|Suisei (601 Air Group)|彗星(六〇一空)
+redplane|Ju 87C Kai|Ju87C改
+blueplane|Ryuusei|流星
+blueplane|Ryuusei Kai|流星改
+blueplane|Ryuusei (601 Air Group)|流星(六〇一空)
+blueplane|Tenzan Model 12 (Murata Squadron)|天山一二型(村田隊)
+blueplane|Tenzan (601 Air Group)|天山(六〇一空)
+yellowplane|Saiun|彩雲
+yellowplane|Type 2 Reconnaissance Aircraft|二式艦上偵察機
+seaplane|Zuiun|瑞雲
+seaplane|Zuiun (634 Air Group)|瑞雲(六三四空)
+seaplane|Zuiun Model 12|瑞雲12型
+seaplane|Type 0 Reconnaissance Seaplane|零式水上偵察機
+seaplane|Type 0 Observation Seaplane|零式水上観測機
+seaplane|Type 98 Reconnaissance Seaplane (Night Recon)|九八式水上偵察機(夜偵)
+radar|Type 22 Surface Radar|22号対水上電探
+radar|Type 22 Surface Radar Kai 4|22号対水上電探改四
+radar|Type 33 Surface Radar|33号対水上電探
+radar|Type 32 Surface Radar|32号対水上電探
+radar|Type 13 Air Radar Kai|13号対空電探改
+radar|Type 14 Air Radar|14号対空電探
+radar|15m Duplex Rangefinder + Type 21 Air Radar Kai Ni|15m二重測距儀+21号電探改二
+greenshell|Type 3 Shell|三式弾
+redshell|Type 91 AP Shell|九一式徹甲弾
+redshell|Type 1 AP Shell|一式徹甲弾
+antiground|WG42 (Wurfgerät 42)|WG42 (Wurfgerät 42)
+rocket|25mm Triple Autocannon Mount (Concentrated Deployment)|25mm三連装機銃 集中配備
+aagun|12.7cm High-angle Gun + Anti-Aircraft Fire Director|12.7cm高角砲+高射装置
+aagun|10cm Twin High-angle Gun Mount + Anti-Aircraft Fire Director|10cm連装高角砲+高射装置
+aagun|10cm Twin High-angle Gun Mount|10cm連装高角砲
+aagun|12.7cm Twin High-angle Gun Mount (Late Model)|12.7cm連装高角砲(後期型)
+depth|Type 94 Depth Charge Projector|九四式爆雷投射機
+depth|Type 3 Depth Charge Projector|三式爆雷投射機
+sonar|Type 93 Passive Sonar|九三式水中聴音機
+sonar|Type 3 Active Sonar|三式水中探信儀
+heli|Ka Type Observation Autogyro|カ号観測機
+subplane|Type 3 Command Liaison Aircraft (ASW)|三式指揮連絡機(対潜)
+searchlight|Type 96 150cm Searchlight|96式150cm探照灯
+searchlight|Searchlight|探照灯
+starshell|Star Shell|照明弾
+fcf|Fleet Command Facility|艦隊司令部施設
+aafd|Type 91 Anti-Aircraft Fire Director|91式高射装置
+aafd|Type 94 Anti-Aircraft Fire Director|94式高射装置
+repair|Repair Goddess|応急修理女神
+repair|Repair Team|応急修理要員
+turbine|Improved Kanhon Type Turbine|改良型艦本式タービン
+turbine|Enhanced Kanhon Type Boiler|強化型艦本式缶
+turbine|New Model High Temperature High Pressure Boiler|新型高温高圧缶
+armor|Pugliese Underwater Protection Bulkhead|プリエーゼ式水中防御隔壁
+drum|Drum Canister|ドラム缶(輸送用)
+repairfacility|Ship Repair Facility|艦艇修理施設
+flyingboat|Type 2 Large-sized Flying Boat|二式大艇
+landingcraft|Daihatsu Landing Craft|大発動艇
+onigiri|Combat Provisions|戦闘糧食
+supplies|Underway Replenishment|洋上補給
+
