@@ -1,0 +1,119 @@
+{{FujiEquip | type= smallgun |name= 12.7cm Twin Gun Mount| upgrade= ★+10 x 1<br />★+7 x 1<br /> |ja= 12.7cm連装砲 |amount= 10}}
+{{FujiEquip | type= smallgun |name= 12.7cm Twin Gun Mount Model B Kai 2| upgrade=  |ja= 12.7cm連装砲B型改二 |amount= 5}}
+{{FujiEquip | type= smallgun |name= 120mm Twin Gun Mount| upgrade=  |ja= 120mm連装砲 |amount= 3}}
+{{FujiEquip | type= aagun |name= 10cm Twin High-angle Gun Mount| upgrade=  |ja= 10cm連装高角砲 |amount= 3}}
+{{FujiEquip | type=  |name= | upgrade=  |ja= 12.7cm単装高角砲 |amount= }}
+{{FujiEquip | type= aagun |name= 10cm Twin High-angle Gun Mount + Anti-Aircraft Fire Director| upgrade=  |ja= 10cm連装高角砲+高射装置 |amount= 4}}
+{{FujiEquip | type=  |name= | upgrade=  |ja= 14cm単装砲 |amount= }}
+{{FujiEquip | type=  |name= | upgrade=  |ja= 20.3cm連装砲 |amount= }}
+{{FujiEquip | type= mediumgun |name= 20.3cm (No.3) Twin Gun Mount| upgrade=  |ja= 20.3cm(3号)連装砲 |amount= 2}}
+{{FujiEquip | type= mediumgun |name= 20.3cm (No.2) Twin Gun Mount| upgrade= ★+6 x 5<br /> |ja= 20.3cm(2号)連装砲 |amount= 11}}
+{{FujiEquip | type= mediumgun |name= SKC34 20.3cm Twin Gun Mount| upgrade=  |ja= SKC34 20.3cm連装砲 |amount= 2}}
+{{FujiEquip | type=  |name= | upgrade=  |ja= 203mm/53 連装砲 |amount= }}
+{{FujiEquip | type=  |name= | upgrade=  |ja= 35.6cm連装砲 |amount= }}
+{{FujiEquip | type= biggun |name= 41cm Twin Gun Mount| upgrade= ★+4 x 3<br /> |ja= 41cm連装砲 |amount= 9}}
+{{FujiEquip | type= biggun |name= 46cm Triple Gun Mount| upgrade=  |ja= 46cm三連装砲 |amount= 8}}
+{{FujiEquip | type= biggun |name= Prototype 35.6cm Triple Gun Mount| upgrade=  |ja= 試製35.6cm三連装砲 |amount= 2}}
+{{FujiEquip | type= biggun |name= 35.6cm Twin Gun Mount (Dazzle Camouflage)| upgrade=  |ja= 35.6cm連装砲(ダズル迷彩) |amount= 2}}
+{{FujiEquip | type= biggun |name= Prototype 41cm Triple Gun Mount| upgrade=  |ja= 試製41cm三連装砲 |amount= 2}}
+{{FujiEquip | type= biggun |name= Prototype 51cm Twin Gun Mount| upgrade=  |ja= 試製51cm連装砲 |amount= 1}}
+{{FujiEquip | type= biggun |name= 381mm/50 Triple Gun Mount| upgrade=  |ja= 381mm/50 三連装砲 |amount= 3}}
+{{FujiEquip | type= biggun |name= 381mm/50 Triple Gun Mount Kai| upgrade=  |ja= 381mm/50 三連装砲改 |amount= 2}}
+{{FujiEquip | type=  |name= | upgrade=  |ja= 16inch三連装砲 Mk.7 |amount= }}
+{{FujiEquip | type= aagun |name= 12.7cm Twin High-angle Gun Mount (Late Model)| upgrade=  |ja= 12.7cm連装高角砲(後期型) |amount= 6}}
+{{FujiEquip | type=  |name= | upgrade=  |ja= 12.7cm連装高角砲 |amount= }}
+{{FujiEquip | type=  |name= | upgrade=  |ja= 10cm連装高角砲(砲架) |amount= }}
+{{FujiEquip | type= aagun |name= 12.7cm High-angle Gun + Anti-Aircraft Fire Director| upgrade=  |ja= 12.7cm高角砲+高射装置 |amount= 1}}
+{{FujiEquip | type=  |name= | upgrade=  |ja= 90mm単装高角砲 |amount= }}
+{{FujiEquip | type=  |name= | upgrade=  |ja= 10.5cm連装砲 |amount= }}
+{{FujiEquip | type=  |name= | upgrade=  |ja= 15.2cm単装砲 |amount= }}
+{{FujiEquip | type=  |name= | upgrade=  |ja= 15.5cm三連装副砲 |amount= }}
+{{FujiEquip | type= yellowgun |name= OTO 152mm Triple Rapid Fire Gun Mount| upgrade= ★+6 x 5<br /> |ja= OTO 152mm三連装速射砲 |amount= 5}}
+{{FujiEquip | type= repairfacility |name= Ship Repair Facility| upgrade=  |ja= 艦艇修理施設 |amount= 2}}
+{{FujiEquip | type= starshell |name= Star Shell| upgrade=  |ja= 照明弾 |amount= 2}}
+{{FujiEquip | type= fcf |name= Fleet Command Facility| upgrade=  |ja= 艦隊司令部施設 |amount= 1}}
+{{FujiEquip | type= aafd |name= Type 91 Anti-Aircraft Fire Director| upgrade=  |ja= 91式高射装置 |amount= 3}}
+{{FujiEquip | type= aafd |name= Type 94 Anti-Aircraft Fire Director| upgrade=  |ja= 94式高射装置 |amount= 1}}
+{{FujiEquip | type= antiground |name= WG42 (Wurfgerät 42)| upgrade=  |ja= WG42 (Wurfgerät 42) |amount= 2}}
+{{FujiEquip | type=  |name= | upgrade=  |ja= 熟練見張員 |amount= }}
+{{FujiEquip | type= flyingboat |name= Type 2 Large-sized Flying Boat| upgrade=  |ja= 二式大艇 |amount= 2}}
+{{FujiEquip | type= onigiri |name= Combat Provisions| upgrade=  |ja= 戦闘糧食 |amount= 7}}
+{{FujiEquip | type=  |name= | upgrade=  |ja= 秋刀魚の缶詰 |amount= }}
+{{FujiEquip | type= supplies |name= Underway Replenishment| upgrade=  |ja= 洋上補給 |amount= 9}}
+{{FujiEquip | type= torpedo |name= Submarine 53cm Bow Torpedo Mount (8 tubes)| upgrade=  |ja= 潜水艦53cm艦首魚雷(8門) |amount= 2}}
+{{FujiEquip | type= torpedo |name= Prototype FaT Type 95 Oxygen Torpedo Kai| upgrade=  |ja= 試製FaT仕様九五式酸素魚雷改 |amount= 1}}
+{{FujiEquip | type=  |name= | upgrade=  |ja= 61cm三連装魚雷 |amount= }}
+{{FujiEquip | type=  |name= | upgrade= ★+10 x 1<br /> |ja= 61cm四連装魚雷 |amount= }}
+{{FujiEquip | type= torpedo |name= 61cm Quadruple (Oxygen) Torpedo Mount| upgrade= ★+6 x 9<br />★+10 x 1<br /> |ja= 61cm四連装(酸素)魚雷 |amount= 32}}
+{{FujiEquip | type= torpedo |name= 61cm Quintuple (Oxygen) Torpedo Mount| upgrade= ★+6 x 3<br /> |ja= 61cm五連装(酸素)魚雷 |amount= 3}}
+{{FujiEquip | type=  |name= | upgrade=  |ja= 61cm三連装(酸素)魚雷 |amount= }}
+{{FujiEquip | type= torpedo |name= Type A Ko-hyoteki| upgrade=  |ja= 甲標的 |amount= 10}}
+{{FujiEquip | type= heli |name= Ka Type Observation Autogyro| upgrade=  |ja= カ号観測機 |amount= 3}}
+{{FujiEquip | type= subplane |name= Type 3 Command Liaison Aircraft (ASW)| upgrade=  |ja= 三式指揮連絡機(対潜) |amount= 3}}
+{{FujiEquip | type= greenplane |name= Reppuu| upgrade=  |ja= 烈風 |amount= 11}}
+{{FujiEquip | type= greenplane |name= Shiden Kai 2| upgrade=  |ja= 紫電改二 |amount= 6}}
+{{FujiEquip | type=  |name= | upgrade=  |ja= 零式艦戦21型(熟練) |amount= }}
+{{FujiEquip | type= greenplane |name= Type 0 Fighter Model 53 (Iwamoto Squadron)| upgrade=  |ja= 零式艦戦53型(岩本隊) |amount= 1}}
+{{FujiEquip | type=  |name= | upgrade=  |ja= Bf109T改 |amount= }}
+{{FujiEquip | type=  |name= | upgrade=  |ja= 九九式艦爆 |amount= }}
+{{FujiEquip | type= redplane |name= Suisei Model 12A| upgrade=  |ja= 彗星一二型甲 |amount= 3}}
+{{FujiEquip | type= redplane |name= Ju 87C Kai| upgrade=  |ja= Ju87C改 |amount= 2}}
+{{FujiEquip | type=  |name= | upgrade=  |ja= 九九式艦爆(熟練) |amount= }}
+{{FujiEquip | type= redplane |name= Type 99 Dive Bomber (Egusa Squadron)| upgrade=  |ja= 九九式艦爆(江草隊) |amount= 1}}
+{{FujiEquip | type= redplane |name= Suisei (601 Air Group)| upgrade=  |ja= 彗星(六〇一空) |amount= 1}}
+{{FujiEquip | type=  |name= | upgrade=  |ja= 零戦62型(爆戦/岩井隊) |amount= }}
+{{FujiEquip | type=  |name= | upgrade=  |ja= 天山 |amount= }}
+{{FujiEquip | type= blueplane |name= Ryuusei| upgrade=  |ja= 流星 |amount= 8}}
+{{FujiEquip | type= blueplane |name= Ryuusei Kai| upgrade=  |ja= 流星改 |amount= 2}}
+{{FujiEquip | type=  |name= | upgrade=  |ja= 九七式艦攻(友永隊) |amount= }}
+{{FujiEquip | type=  |name= | upgrade=  |ja= 九七式艦攻(熟練) |amount= }}
+{{FujiEquip | type= blueplane |name= Tenzan (601 Air Group)| upgrade=  |ja= 天山(六〇一空) |amount= 1}}
+{{FujiEquip | type= blueplane |name= Ryuusei (601 Air Group)| upgrade=  |ja= 流星(六〇一空) |amount= 1}}
+{{FujiEquip | type= blueplane |name= Tenzan Model 12 (Murata Squadron)| upgrade=  |ja= 天山一二型(村田隊) |amount= 2}}
+{{FujiEquip | type= redshell |name= Type 91 AP Shell| upgrade= ★+6 x 5<br /> |ja= 九一式徹甲弾 |amount= 7}}
+{{FujiEquip | type= redshell |name= Type 1 AP Shell| upgrade=  |ja= 一式徹甲弾 |amount= 3}}
+{{FujiEquip | type= greenshell |name= Type 3 Shell| upgrade=  |ja= 三式弾 |amount= 13}}
+{{FujiEquip | type=  |name= | upgrade=  |ja= 12cm30連装噴進砲 |amount= }}
+{{FujiEquip | type=  |name= | upgrade=  |ja= 7.7mm機銃 |amount= }}
+{{FujiEquip | type=  |name= | upgrade=  |ja= 12.7mm単装機銃 |amount= }}
+{{FujiEquip | type=  |name= | upgrade=  |ja= 25mm連装機銃 |amount= }}
+{{FujiEquip | type=  |name= | upgrade=  |ja= 25mm三連装機銃 |amount= }}
+{{FujiEquip | type=  |name= | upgrade=  |ja= 25mm単装機銃 |amount= }}
+{{FujiEquip | type=  |name= | upgrade=  |ja= 2cm 四連装FlaK 38 |amount= }}
+{{FujiEquip | type=  |name= | upgrade=  |ja= 毘式40mm連装機銃 |amount= }}
+{{FujiEquip | type= rocket |name= 25mm Triple Autocannon Mount (Concentrated Deployment)| upgrade=  |ja= 25mm三連装機銃 集中配備 |amount= 1}}
+{{FujiEquip | type= seaplane |name= Type 0 Reconnaissance Seaplane| upgrade=  |ja= 零式水上偵察機 |amount= 12}}
+{{FujiEquip | type= seaplane |name= Type 0 Observation Seaplane| upgrade=  |ja= 零式水上観測機 |amount= 7}}
+{{FujiEquip | type= seaplane |name= Type 98 Reconnaissance Seaplane (Night Recon)| upgrade=  |ja= 九八式水上偵察機(夜偵) |amount= 1}}
+{{FujiEquip | type=  |name= | upgrade=  |ja= Ar196改 |amount= }}
+{{FujiEquip | type=  |name= | upgrade=  |ja= Ro.43水偵 |amount= }}
+{{FujiEquip | type= seaplane |name= Zuiun| upgrade=  |ja= 瑞雲 |amount= 7}}
+{{FujiEquip | type= seaplane |name= Zuiun (634 Air Group)| upgrade=  |ja= 瑞雲(六三四空) |amount= 3}}
+{{FujiEquip | type= seaplane |name= Zuiun Model 12| upgrade=  |ja= 瑞雲12型 |amount= 2}}
+{{FujiEquip | type= yellowplane |name= Saiun| upgrade=  |ja= 彩雲 |amount= 4}}
+{{FujiEquip | type= yellowplane |name= Type 2 Reconnaissance Aircraft| upgrade=  |ja= 二式艦上偵察機 |amount= 3}}
+{{FujiEquip | type=  |name= | upgrade=  |ja= 13号対空電探 |amount= }}
+{{FujiEquip | type= radar |name= Type 22 Surface Radar| upgrade=  |ja= 22号対水上電探 |amount= 9}}
+{{FujiEquip | type= radar |name= Type 33 Surface Radar| upgrade=  |ja= 33号対水上電探 |amount= 1}}
+{{FujiEquip | type= radar |name= Type 22 Surface Radar Kai 4| upgrade=  |ja= 22号対水上電探改四 |amount= 2}}
+{{FujiEquip | type= radar |name= Type 13 Air Radar Kai| upgrade=  |ja= 13号対空電探改 |amount= 6}}
+{{FujiEquip | type=  |name= | upgrade=  |ja= 21号対空電探 |amount= }}
+{{FujiEquip | type= radar |name= Type 32 Surface Radar| upgrade=  |ja= 32号対水上電探 |amount= 2}}
+{{FujiEquip | type= radar |name= Type 14 Air Radar| upgrade=  |ja= 14号対空電探 |amount= 1}}
+{{FujiEquip | type=  |name= | upgrade=  |ja= FuMO25 レーダー |amount= }}
+{{FujiEquip | type= radar |name= 15m Duplex Rangefinder + Type 21 Air Radar Kai Ni| upgrade=  |ja= 15m二重測距儀+21号電探改二 |amount= 1}}
+{{FujiEquip | type=  |name= | upgrade=  |ja= 増設バルジ(中型艦) |amount= }}
+{{FujiEquip | type= armor |name= Pugliese Underwater Protection Bulkhead| upgrade=  |ja= プリエーゼ式水中防御隔壁 |amount= 3}}
+{{FujiEquip | type= repair |name= Repair Team| upgrade=  |ja= 応急修理要員 |amount= 1}}
+{{FujiEquip | type= repair |name= Repair Goddess| upgrade=  |ja= 応急修理女神 |amount= 3}}
+{{FujiEquip | type= turbine |name= Improved Kanhon Type Turbine| upgrade=  |ja= 改良型艦本式タービン |amount= 4}}
+{{FujiEquip | type= turbine |name= Enhanced Kanhon Type Boiler| upgrade=  |ja= 強化型艦本式缶 |amount= 5}}
+{{FujiEquip | type= turbine |name= New Model High Temperature High Pressure Boiler| upgrade=  |ja= 新型高温高圧缶 |amount= 2}}
+{{FujiEquip | type= sonar |name= Type 93 Passive Sonar| upgrade= ★+3 x 1<br /> |ja= 九三式水中聴音機 |amount= 11}}
+{{FujiEquip | type= sonar |name= Type 3 Active Sonar| upgrade= ★+5 x 1<br /> |ja= 三式水中探信儀 |amount= 11}}
+{{FujiEquip | type= depth |name= Type 94 Depth Charge Projector| upgrade= ★+5 x 1<br />★+2 x 1<br /> |ja= 九四式爆雷投射機 |amount= 11}}
+{{FujiEquip | type= depth |name= Type 3 Depth Charge Projector| upgrade= ★+1 x 1<br />★+6 x 1<br /> |ja= 三式爆雷投射機 |amount= 5}}
+{{FujiEquip | type= landingcraft |name= Daihatsu Landing Craft| upgrade= ★+2 x 1<br /> |ja= 大発動艇 |amount= 5}}
+{{FujiEquip | type= searchlight |name= Searchlight| upgrade= ★+9 x 1<br /> |ja= 探照灯 |amount= 1}}
+{{FujiEquip | type= searchlight |name= Type 96 150cm Searchlight| upgrade=  |ja= 96式150cm探照灯 |amount= 1}}
+{{FujiEquip | type= drum |name= Drum Canister| upgrade=  |ja= ドラム缶(輸送用) |amount= 25}}
